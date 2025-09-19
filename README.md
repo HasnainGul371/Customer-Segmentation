@@ -1,7 +1,5 @@
 # Customer-Segmentation
-# Author: Hasnain Gul
-# Customer Segmentation
-
+ Author: Hasnain Gul
 ## Project Overview
 This project focuses on **Customer Segmentation** using unsupervised machine learning techniques. The main goal is to analyze customer data and segment them into meaningful groups based on behavioral and demographic patterns. These segments allow businesses to design **targeted marketing strategies**, improve **customer retention**, and enhance **business decision-making**.  
 
